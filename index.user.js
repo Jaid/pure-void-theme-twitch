@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Pure Void - Twitch Black Theme
-// @version      2.0
+// @version      2.1
 // @description  Overwrites the stylesheet of all Twitch pages to make some backgrounds black.
 // @author       Jaid
 // @namespace    https://github.com/Jaid
 // @match        *://www.twitch.tv/*
 // @match        *://twitch.tv/*
-// @downloadURL  https://github.com/Jaid/pure-void-theme-twitch/raw/master/index.user.js
-// @updateURL    https://github.com/Jaid/pure-void-theme-twitch/raw/master/index.user.js
+// @downloadURL  https://raw.githubusercontent.com/Jaid/pure-void-theme-twitch/master/index.user.js
+// @updateURL    https://raw.githubusercontent.com/Jaid/pure-void-theme-twitch/master/index.user.js
 // @icon64       https://raw.githubusercontent.com/Jaid/pure-void-theme-twitch/master/icon.png
 // ==/UserScript==
 
